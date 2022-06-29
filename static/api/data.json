@@ -1,0 +1,152 @@
+{
+    "main": {
+        "name": "Elbair Abdennaji",
+        "shortname": "Naji",
+        "occupation": "Full-stack Developer",
+        "description": "Eat, sleep, code, repeat.",
+        "yearofexperience": "03",
+        "age": "25",
+        "designation": "Software engineer",
+        "image": "/images/photo.png",
+        "fullimage": "/images/myphoto1.jpg",
+        "bio": "Hi there! I have been very passionate about computers and programming. I dream to be an expert software engineer so that I can build professional and useful software that has business value. I am looking for a junior software engineer position in a reputed software company that can help me to achieve my goal.",
+        "contactmessage": "Get in touch with me to to build any software for your business.!",
+        "email": "elbairabennaji@gmail.com",
+        "phone": "+212 604835418",
+        "address": {
+            "country": "Morocco",
+            "city": "Martil"
+            
+        },
+        "quotes1": {
+            "sectiontitle": "My resume",
+            "title": "I Would Love to make your Ideas real",
+            "description": "I love graphic design and photography and have been working on my portfolio since 2021. You can download my resume in order to learn the details of my professional life as a designer and photographer. Contact me and we will discuss your projects!"
+        },
+        "quotes2": {
+            "sectiontitle": "",
+            "title": "I can give your business a new creative start right away! Hire me for your Awesome project",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. At, corrupti odit? At iure facere, porro repellat officia quas, dolores magnam assumenda soluta odit harum voluptate inventore ipsa maiores fugiat accusamus eos nulla. Iure voluptatibus explicabo officia."
+        },
+        "workabout": {
+            "completedproject": "100",
+            "inprogressproject": "20",
+            "awardrecived": "15",
+            "happyclinet": "100"
+        },
+        "resumedownload": "https://drive.google.com/file/d/1CQEEyj7LGSD4aqZ9R7wk8AqvPY88KeQE/view?usp=sharing",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/elbairabennaji/",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/naji-ali-55b5421b3/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/elbairabennaji/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/naji-97",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "My Programming Language Proficiency",
+        "education": [
+            {
+            "school": "Specialized Institute in Offshoring Professions.",
+            "degree": "Specialized Technician in Computer Systems and Networks",
+            "graduated": "July 2018",
+            "description": "Graduated with First Class Honours"
+        }
+    ],
+        "work": [{
+            "company": "JohainaShope",
+            "title": "Software engineer",
+            "years": "Jan 2022 - Present",
+            "description": "Build an Ecommerce Website."
+        }],
+        "skillssectiontitle":"Motivated by the Desire to achieve Success",
+        "skillssectiondescription":"I can give your business a new creative start right away! Hire me for your Awesome project. ",
+        "skills": [
+            {
+                "name": "HTML",
+                "level": "90%"
+            },
+            {
+                "name": "Css",
+                "level": "70%"
+            },
+            {
+                "name": "Javascript",
+                "level": "70%"
+            },
+            {
+                "name": "Vuejs",
+                "level": "70%"
+            },
+            {
+                "name": "Nuxtjs",
+                "level": "50%"
+            },
+            {
+                "name": "Nodejs",
+                "level": "50%"
+            },
+            {
+                "name": "Expressjs",
+                "level": "80%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+                "no":"01",
+                "title": "Node Events",
+                "description": "A simple Event project with Node js, Express, Ejs, and some technologies like passportjs, bcrypt and express validator in procss login and mongoose for DataBase, and multer for uploads images .",
+                "url": "https://node-events-app.herokuapp.com/events"
+            },
+            {
+                "no":"02",
+                "title": " News Website",
+                "description": "A simple News website/app using Node.js, Express, EJS and  some dependencies such as AXIOS, Body-Parser and Nodemon. The data for the articles will come from Newsapi.org.",
+                 "url": "https://news-application-nodejs.herokuapp.com"
+            },
+            {
+                "no":"03",
+                "title": "StoryBooks",
+                "description": " a full application build of the StoryBooks app which uses Node.js, Express, MongoDB, Passport with a Google OAuth strategyand more technologies.",
+                "url": "http://storybooks-app-naji.herokuapp.com/dashboard"
+            }
+        ]
+    },
+   
+    "services": {
+        "services": [
+            {
+                "no": "01",
+                "title": "UI/UX Design",
+                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set."
+            },
+            {
+                "no": "02",
+                "title": "Web Design",
+                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set."
+            },
+            {
+                "no": "03",
+                "title": "Web Development",
+                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set."
+            }
+        ]
+    }
+    
+}
